@@ -6702,4 +6702,5 @@ Duncan Ledesma
 - [Andrew Farrell](https://github.com/atf8760)
 - [Sam Devine](https://github.com/samueldevine)
 - [Pietro Celiento](https://github.com/ptr-cln)
+- [Naresh Naik](https://github.com/naiknareshh)
 <!-- prettier-ignore-end -->
